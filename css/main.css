@@ -443,6 +443,10 @@ textarea {
 
 }
 
+textarea #msg {
+	color: #000000;
+}
+
 .button {
   padding-left: 115px;
 }
