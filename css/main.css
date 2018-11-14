@@ -422,6 +422,7 @@ input, textarea {
      By default, textareas have a monospace font */
 	font-family: Arial
 	font-size: 18px;
+	color: #000000;
   width: 400px;
   box-sizing: border-box;
 	border-radius: 1em;
