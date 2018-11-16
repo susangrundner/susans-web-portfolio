@@ -1,16 +1,15 @@
-
-
 /*****BASE STYLES*****/
 
 
 body {
-		margin: auto;
-		padding-top: 15px;
-		padding-right: 100px;
-		background-image: url(../img/miami-beach-bkgrd.jpg);
-		background-repeat: no-repeat;
-		background-size: cover;
-}
+				margin: 0px;
+				height: 100%;
+				padding-top: 15px;
+				padding-right: 100px;
+				background-image: url(../img/miami-beach-bkgrd.jpg);
+				background-repeat: no-repeat;
+				background-size: cover;
+		}
 
 a {
 		font-size: 23px;
@@ -478,10 +477,8 @@ button {
 
 footer  {
 	clear: both;
-	width: 800px;
-	margin: auto;
-	margin-bottom: 5px;
-	padding-top: 35px;
+	width: 100%;
+	padding-top: 50px;
   padding-left: 50px;
   text-align: center;
 	font-size: 32px;
