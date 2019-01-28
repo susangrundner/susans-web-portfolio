@@ -5,6 +5,7 @@ body {
     margin: 0px;
     padding-top: 15px;
     padding-right: 100px;
+    height: 100%;
     background-image: url(../img/miami-beach-bkgrd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -523,8 +524,8 @@ button {
 footer #copyright {
 	clear: both;
 	width: 100%;
-    text-align: center;
-    margin-top: 20px;
+        text-align: center;
+        padding-top: 20px;
 	font-family: 'Montserrat Alternates', sans-serif;
 	color: #ffffff;
 	font-size: 15px;
