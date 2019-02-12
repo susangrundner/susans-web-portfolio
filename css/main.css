@@ -524,8 +524,13 @@ button {
 footer #copyright {
 	clear: both;
 	width: 100%;
+<<<<<<< HEAD
     text-align: center;
     padding-top: 20px;
+=======
+        text-align: center;
+        padding-top: 20px;
+>>>>>>> 0add39527f8dedcc8abfaf7a1274003209bc317e
 	font-family: 'Montserrat Alternates', sans-serif;
 	color: #ffffff;
 	font-size: 15px;
